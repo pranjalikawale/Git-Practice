@@ -1,2 +1,2 @@
 #!/bin/bash -x
-echo "Hello everyone"
+echo "hi everyone"
