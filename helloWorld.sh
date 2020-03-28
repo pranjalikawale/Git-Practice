@@ -1,2 +1,2 @@
 #!/bin/bash -x
-echo "hi everyone"
+echo "hi everyone, how do u do?"
